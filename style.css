@@ -1,0 +1,30 @@
+body {background-color: rgb(1, 0, 2);}
+
+h1 {color: rgb(107, 45, 155);}
+h2 {color: rgb(9, 9, 77);}
+h3 {color: rgb(118, 29, 170);}
+
+#capa {width: 40%;}
+#nitro {width: 25%;}
+#prm {width: 25%;}
+#phlox {width: 25%;}
+#love {width: 25%;}
+#mix {width: 25%;}
+#capadois {width: 60%;}
+
+#capa {margin-left: 34% ;}
+#nitro {margin-left: 37%;}
+#prm {margin-left: 37%;}
+#phlox {margin-left: 37%;}
+#love {margin-left: 37%;}
+#mix {margin-left: 37%;}
+#capadois {margin-left: 24%;}
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+
+
+h1 {font-size: 250%;}
+h2 {font-size: 190%;}
+h3 {font-size: 100%;}
